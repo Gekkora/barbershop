@@ -1,0 +1,21 @@
+.heros {
+    background-image: url(../img/post-image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    padding-top: 105px;
+    height: 500px;
+
+}
+.down {
+    font-size: 5.5em;
+}
+
+@media only screen and (max-width: 600px) {
+    
+    .downxs {
+        padding-top: 20px;
+        font-size: 3em;
+}
+}
